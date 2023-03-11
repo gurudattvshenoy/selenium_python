@@ -4,7 +4,7 @@ Example UI automation framework using Selenium Python. This framework uses pytes
 
 # Features
 1. Abilty to automate website.
-2. Shows results in html reports.
+2. Shows results as html reports using pytest feature.
 3. Test execution logging. 
 
 # Configure and run tests:
