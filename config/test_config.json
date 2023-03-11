@@ -1,0 +1,8 @@
+{
+  "browser": "chrome",
+  "url": "https://www.saucedemo.com/",
+  "debug_mode": "DEBUG",
+  "implicit_timeout": 10,
+  "explicit_timeout": 20,
+  "log_filename": "test_output.log"
+}
