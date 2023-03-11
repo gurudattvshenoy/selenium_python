@@ -1,4 +1,4 @@
-# selenium_python
+# selenium python automation framework
 Example UI automation framework using Selenium Python. This framework uses pytest to write script and selenium to perform action against browser.
 
 
@@ -10,7 +10,7 @@ Example UI automation framework using Selenium Python. This framework uses pytes
 # Configure and run tests:
 To install the framework follow below steps:
 
-Download the project or clone the project.
+##Download the project or clone the project.
 git clone https://github.com/gurudattvshenoy/selenium_python.git
 
 Change the directory to selenium_python.
