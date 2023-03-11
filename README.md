@@ -2,12 +2,12 @@
 Example UI automation framework using Selenium Python. This framework uses pytest to write script and selenium to perform action against browser.
 
 
-# Feature
-1. Automates REST API
-2. Shows html reports
-3. Has execution logging 
+# Features
+1. Abilty to automate website.
+2. Shows results in html reports.
+3. Test execution logging. 
 
-# Running the test:
+# Configure and run tests:
 To install the framework follow below steps:
 
 Download the project or clone the project.
